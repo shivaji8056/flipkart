@@ -1,1 +1,1 @@
-This file contains some deployment script of the following 
+This file contains some deployment script of the followings
