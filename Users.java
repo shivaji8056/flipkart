@@ -1,1 +1,1 @@
-This file contains the user information
+This file contains the user information of
